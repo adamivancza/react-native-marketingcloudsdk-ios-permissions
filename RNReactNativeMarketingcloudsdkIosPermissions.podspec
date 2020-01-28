@@ -9,10 +9,10 @@ Pod::Spec.new do |s|
   s.homepage     = ""
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "author" => "author@domain.cn" }
+  s.author             = { "author" => "adam.ivancza@getcodified.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNReactNativeMarketingcloudsdkIosPermissions.git", :tag => "master" }
-  s.source_files  = "RNReactNativeMarketingcloudsdkIosPermissions/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/naoufal/react-native-safari-view.git" }
+  s.source_files  = "**/*.{h,m}"
   s.requires_arc = true
   s.homepage = "http://EXAMPLE/MyLib"
 
